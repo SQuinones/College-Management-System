@@ -25,7 +25,7 @@ int main()
 		cout<<"3.Exit program"<<endl;
 		cout<<"Enter your choice: "<<endl;
 
-		cin>>choice;
+		cin>>choice;// user choice
 
 		switch(choice)
 		{
